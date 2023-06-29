@@ -2,6 +2,7 @@
 include_once "header.php"
 
 ?>
+<link rel="stylesheet" href="./styles/style.css">
 
 <body>
     <section class="sign_up">
